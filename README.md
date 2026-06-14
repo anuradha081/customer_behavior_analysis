@@ -1,4 +1,4 @@
-# customer_behavior_analysis
+# customer_shopping_behavior_analysis
 Data Analytics Project Showcasing Customer behavior analysis using python,sql,power BI
 
 
@@ -216,6 +216,15 @@ Concentrate advertising efforts on high-revenue age groups and customers who pre
 | GitHub     | Project Version Control             |
 
 ---
+=> Screenshorts / Demo 
+
+Shows what the dashboard look like :- (customer_shopping_behavior_dashboard.png) 
+![customer_shopping Dashboard](customer_shopping_behavior.png)
+
+Example :
+[Dashboard Preview](https://github.com/anuradha081/blinkit-sales-powerbi-dashboard/blob/main/blinkit_sales_dashboard.png)
+
+
 
 ## Conclusion
 
