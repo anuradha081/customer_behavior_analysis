@@ -222,7 +222,7 @@ Shows what the dashboard look like :- (customer_shopping_behavior_dashboard.png)
 ![customer_shopping Dashboard](customer_shopping_behavior.png)
 
 Example :
-[Dashboard Preview](https://github.com/anuradha081/blinkit-sales-powerbi-dashboard/blob/main/blinkit_sales_dashboard.png)
+[Dashboard Preview](https://github.com/anuradha081/customer_behavior_analysis/blob/main/customer_shopping_behavior.png)
 
 
 
